@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/test-contact/static/css/main.afd7172b.chunk.css",
-    "main.js": "/test-contact/static/js/main.92fc62d4.chunk.js",
-    "main.js.map": "/test-contact/static/js/main.92fc62d4.chunk.js.map",
-    "runtime-main.js": "/test-contact/static/js/runtime-main.ea0ccaf3.js",
-    "runtime-main.js.map": "/test-contact/static/js/runtime-main.ea0ccaf3.js.map",
-    "static/css/2.15a7a700.chunk.css": "/test-contact/static/css/2.15a7a700.chunk.css",
-    "static/js/2.0e66836e.chunk.js": "/test-contact/static/js/2.0e66836e.chunk.js",
-    "static/js/2.0e66836e.chunk.js.map": "/test-contact/static/js/2.0e66836e.chunk.js.map",
-    "static/js/3.230446c9.chunk.js": "/test-contact/static/js/3.230446c9.chunk.js",
-    "static/js/3.230446c9.chunk.js.map": "/test-contact/static/js/3.230446c9.chunk.js.map",
+    "main.js": "/test-contact/static/js/main.b4e49e6d.chunk.js",
+    "main.js.map": "/test-contact/static/js/main.b4e49e6d.chunk.js.map",
+    "runtime-main.js": "/test-contact/static/js/runtime-main.895db95a.js",
+    "runtime-main.js.map": "/test-contact/static/js/runtime-main.895db95a.js.map",
+    "static/css/2.800be05e.chunk.css": "/test-contact/static/css/2.800be05e.chunk.css",
+    "static/js/2.692dae22.chunk.js": "/test-contact/static/js/2.692dae22.chunk.js",
+    "static/js/2.692dae22.chunk.js.map": "/test-contact/static/js/2.692dae22.chunk.js.map",
+    "static/js/3.edcb38bb.chunk.js": "/test-contact/static/js/3.edcb38bb.chunk.js",
+    "static/js/3.edcb38bb.chunk.js.map": "/test-contact/static/js/3.edcb38bb.chunk.js.map",
     "index.html": "/test-contact/index.html",
-    "static/css/2.15a7a700.chunk.css.map": "/test-contact/static/css/2.15a7a700.chunk.css.map",
+    "static/css/2.800be05e.chunk.css.map": "/test-contact/static/css/2.800be05e.chunk.css.map",
     "static/css/main.afd7172b.chunk.css.map": "/test-contact/static/css/main.afd7172b.chunk.css.map",
-    "static/js/2.0e66836e.chunk.js.LICENSE.txt": "/test-contact/static/js/2.0e66836e.chunk.js.LICENSE.txt"
+    "static/js/2.692dae22.chunk.js.LICENSE.txt": "/test-contact/static/js/2.692dae22.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ea0ccaf3.js",
-    "static/css/2.15a7a700.chunk.css",
-    "static/js/2.0e66836e.chunk.js",
+    "static/js/runtime-main.895db95a.js",
+    "static/css/2.800be05e.chunk.css",
+    "static/js/2.692dae22.chunk.js",
     "static/css/main.afd7172b.chunk.css",
-    "static/js/main.92fc62d4.chunk.js"
+    "static/js/main.b4e49e6d.chunk.js"
   ]
 }
